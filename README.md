@@ -10,18 +10,15 @@ I'm a passionate web developer with over a year of experience in the field. For 
 - 📫 How to reach me: [kabochakiongo@gmail.com](mailto:kabochakiongo@gmail.com.com) | [LinkedIn](https://www.linkedin.com/in/samuel_muigai-kenya) | [Twitter](https://twitter.com/MuigaiKiongo)
 
 ## 🛠️ Skills
-- **Languages**: Python, JavaScript, HTML, CSS
+- **Languages**:
+-  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
 - **Frameworks**: Django
 - **Tools**: Git, Hostinger, Firebase, GitHub
 - **SEO Optimization**: Basic skills in optimizing websites for search engines
 
-
-## Language Statistics
-## Languages Used
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
 
 
 
