@@ -17,7 +17,11 @@ I'm a passionate web developer with over a year of experience in the field. For 
 
 
 ## Language Statistics
-
+## Languages Used
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
 
 
 
@@ -28,7 +32,7 @@ I have experience hosting websites using:
 - **GitHub Pages**
 
 ## 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Muigai-Kiongo&show_icons=true&theme=radical)
 
 ## 🎉 Achievements
 - Successfully built and deployed multiple static and dynamic websites.
