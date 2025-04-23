@@ -7,7 +7,7 @@ I'm a passionate web developer with over a year of experience in the field. For 
 - 🌱 I’m learning more about **SEO optimization** and advanced **JavaScript frameworks**.
 - 👯 I’m looking to collaborate on web development projects and open-source contributions.
 - 💬 Ask me about web development, Django, or any related topics!
-- 📫 How to reach me: [kabochakiongo@gmail.com](mailto:kabochakiongo@gmail.com.com) | [LinkedIn](https://www.linkedin.com/in/samuel_muigai-kenya) | [Twitter](https://twitter.com/MuigaiKiongo)
+- 📫 How to reach me: [kabochakiongo@gmail.com](mailto:kabochakiongo@gmail.com.com) | [LinkedIn](https://www.linkedin.com/in/muigai-kiongo?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) | [Twitter](https://twitter.com/MuigaiKiongo)
 
 ## 🛠️ Skills
 - **Languages**:
@@ -32,7 +32,7 @@ I have experience hosting websites using:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Muigai-Kiongo&show_icons=true&theme=radical)
 
 ## 🎉 Achievements
-- Successfully built and deployed multiple static and dynamic websites.
+- Successfully built and deployed multiple static websites.
 - Gained hands-on experience with web hosting and SEO optimization.
 
 ---
