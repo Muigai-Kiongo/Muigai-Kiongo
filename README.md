@@ -1,12 +1,12 @@
 # Hi there, I'm Samuel Muigai Kiongo 👋
 
 ## 👨‍💻 About Me
-I'm a passionate web developer with over a year of experience in the field. Focused on building dynamic web applications using **Django**,**React**, **HTML**, **CSS**, and **JavaScript**. I enjoy creating user-friendly and responsive websites that provide a great user experience.
+I'm a passionate web developer with over a year of experience in the field. Focused on building dynamic web applications using **Django**, **React**, **HTML**, **CSS**, and **JavaScript**. I enjoy creating user-friendly and responsive websites that provide a great user experience.
 
 - 🔭 I’m currently working on enhancing my skills in web development and exploring new technologies.
 - 🌱 I’m learning more about **SEO optimization** and advanced **JavaScript frameworks**.
 - 👯 I’m looking to collaborate on web development projects and open-source contributions.
-- 💬 Ask me about web development, Django, or any related topics!
+- 💬 Ask me about web development, Django, React, or any related topics!
 - 📫 How to reach me: [kabochakiongo@gmail.com](mailto:kabochakiongo@gmail.com.com) | [LinkedIn](https://www.linkedin.com/in/muigai-kiongo?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) | [Twitter](https://twitter.com/MuigaiKiongo)
 
 ## 🛠️ Skills
@@ -27,7 +27,7 @@ I have experience hosting websites using:
 - **Hostinger**
 - **Firebase**
 - **GitHub Pages**
-- - **Vercel**
+- **Vercel**
 
 ## 📈 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Muigai-Kiongo&show_icons=true&theme=radical)
