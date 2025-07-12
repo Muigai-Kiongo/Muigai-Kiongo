@@ -1,7 +1,7 @@
 # Hi there, I'm Samuel Muigai Kiongo 👋
 
 ## 👨‍💻 About Me
-I'm a passionate web developer with over a year of experience in the field. For the past 8 months, I've been focusing on building dynamic web applications using **Django**, **HTML**, **CSS**, and **JavaScript**. I enjoy creating user-friendly and responsive websites that provide a great user experience.
+I'm a passionate web developer with over a year of experience in the field. Focused on building dynamic web applications using **Django**,**React**, **HTML**, **CSS**, and **JavaScript**. I enjoy creating user-friendly and responsive websites that provide a great user experience.
 
 - 🔭 I’m currently working on enhancing my skills in web development and exploring new technologies.
 - 🌱 I’m learning more about **SEO optimization** and advanced **JavaScript frameworks**.
@@ -15,8 +15,8 @@ I'm a passionate web developer with over a year of experience in the field. For 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
-- **Frameworks**: Django
-- **Tools**: Git, Hostinger, Firebase, GitHub
+- **Frameworks**: Django, React
+- **Tools**: Git, Hostinger, Firebase, GitHub, Vercel, Tailwind css
 - **SEO Optimization**: Basic skills in optimizing websites for search engines
 
 
@@ -27,6 +27,7 @@ I have experience hosting websites using:
 - **Hostinger**
 - **Firebase**
 - **GitHub Pages**
+- - **Vercel**
 
 ## 📈 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Muigai-Kiongo&show_icons=true&theme=radical)
