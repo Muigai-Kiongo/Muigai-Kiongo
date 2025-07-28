@@ -33,7 +33,7 @@ I have experience hosting websites using:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Muigai-Kiongo&show_icons=true&theme=radical)
 
 ## 🎉 Achievements
-- Successfully built and deployed multiple static websites.
+- Successfully built and deployed multiple websites.
 - Gained hands-on experience with web hosting and SEO optimization.
 
 ---
