@@ -30,7 +30,6 @@ I have deployed and managed websites on:
 
 ## 🚀 Featured Projects
 - [🌐 Portfolio Website](https://github.com/Muigai-Kiongo/portfolio) — Personal portfolio built with React & Tailwind CSS.  
-- [📝 Django Blog](https://github.com/Muigai-Kiongo/django-blog) — Full-featured blog with authentication & SEO optimization.  
 
 ---
 
