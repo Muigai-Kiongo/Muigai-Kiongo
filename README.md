@@ -1,7 +1,5 @@
 # Hi there, I'm Samuel Muigai Kiongo 👋
 
-![Banner](https://i.imgur.com/8MupZHY.png) <!-- You can replace this with your own banner -->
-
 ## 👨‍💻 About Me
 I'm a passionate **Software Developer** with over a year of experience building dynamic and responsive web applications.  
 I work with **Python**, **JavaScript**, **Kotlin**, **Jetpack Compose** **Django**, **React**, **HTML**, and **CSS**  to create user-friendly digital experiences.  
@@ -16,7 +14,7 @@ I work with **Python**, **JavaScript**, **Kotlin**, **Jetpack Compose** **Django
 
 ## ⚡ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,react,js,html,css,tailwind,git,github,firebase,vercel" />
+  <img src="https://skillicons.dev/icons?i=python,django,js,react,html,css,tailwind,git,github,firebase,vercel" />
 </p>
 
 ---
@@ -55,13 +53,6 @@ I have deployed and managed websites on:
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/MuigaiKiongo)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kabochakiongo@gmail.com)  
 
----
 
-## ⚡ Fun Facts
-- 🎧 I enjoy coding while listening to Lo-Fi beats.  
-- 🌍 Passionate about empowering African businesses through tech.  
-- ⚽ Big fan of football and strategy games.  
-
----
 
 ✨ *Thanks for visiting my profile! Let’s connect and create something amazing together.* 🚀
